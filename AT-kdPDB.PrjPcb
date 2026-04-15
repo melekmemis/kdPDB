@@ -66,7 +66,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HOJJROTA
 
 [Document2]
-DocumentPath=AT-kdPDB.PcbDoc
+DocumentPath=..\..\..\..\memis\AppData\Local\Temp\History\AT-kdPDB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -80,7 +80,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IGXJLSWC
+DocumentUniqueId=DSLZEJLR
 
 [Document3]
 DocumentPath=PcbLib1.PcbLib
